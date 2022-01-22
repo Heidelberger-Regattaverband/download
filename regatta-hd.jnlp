@@ -13,6 +13,10 @@
     <offline-allowed/>
   </information>
 
+  <security>
+    <all-permissions/>
+  </security>
+
   <resources>
     <java version="17*"/>
     <jar href="ui-1.0.0-SNAPSHOT-full.jar"/>
