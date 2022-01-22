@@ -14,7 +14,7 @@
   </information>
 
   <resources>
-    <j2se version="17+"/>
+    <java version="17*"/>
     <jar href="ui-1.0.0-SNAPSHOT-full.jar"/>
   </resources>
 
