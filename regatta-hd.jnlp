@@ -17,6 +17,7 @@
     <j2se version="17"/>
     <jar href="ui-1.0.0-SNAPSHOT-full.jar"/>
   </resources>
+
   <application-desc main-class="de.regatta_hd.ui.RegattaHD"/>
 
 </jnlp>
