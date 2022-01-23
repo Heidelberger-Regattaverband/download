@@ -10,6 +10,7 @@
     <homepage href="https://www.heidelberger-regattaverband.com/"/>
     <description>Software für die Heidelberger Regatta</description>
     <description kind="short">Software für die Heidelberger Regatta</description>
+    <icon href="hrv_logo.png"/>
     <offline-allowed/>
     <shortcut online="true">
       <desktop />
