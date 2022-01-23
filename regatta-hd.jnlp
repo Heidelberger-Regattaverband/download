@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <jnlp spec="7.0"
-  codebase="https://github.com/Heidelberger-Regattaverband/download/raw/gh-pages/"
+  codebase="https://heidelberger-regattaverband.github.io/download/"
   href="regatta-hd.jnlp">
 
   <information>
