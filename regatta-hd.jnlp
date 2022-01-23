@@ -17,6 +17,8 @@
     </shortcut>
   </information>
 
+  <update check="always" policy="always" />
+
   <security>
     <all-permissions/>
   </security>
