@@ -25,7 +25,7 @@
   </security>
 
   <resources>
-    <java version="17*" href="https://heidelberger-regattaverband.github.io/download/jvms.json" />
+    <java version="17*" href="jvms.json" />
     <jar href="regatta-hd-1.0.0-SNAPSHOT.jar" version="1.0.0-SNAPSHOT" main="true" />
   </resources>
 
