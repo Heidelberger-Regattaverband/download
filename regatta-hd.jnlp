@@ -27,7 +27,6 @@
   <resources>
     <java version="11*" href="jvms.json" />
         
-    <jar href="lib/de.regatta-hd-webstart-0.1.22.jar"/>
     <jar href="lib/de.regatta-hd-ui-0.1.22.jar" main="true"/>
     <jar href="lib/de.regatta-hd-aquarius-0.1.22.jar"/>
     <jar href="lib/de.regatta-hd-commons-core-0.1.22.jar"/>
