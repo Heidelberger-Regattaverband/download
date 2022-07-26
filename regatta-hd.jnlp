@@ -51,7 +51,7 @@
     <jar href="lib/org.glassfish.jaxb-txw2-3.0.0.jar"/>
     <jar href="lib/com.sun.istack-istack-commons-runtime-4.0.0.jar"/>
     <jar href="lib/com.microsoft.sqlserver-mssql-jdbc-11.1.2.jre11-preview.jar"/>
-    <jar href="lib/org.liquibase-liquibase-core-4.13.0.jar"/>
+    <jar href="lib/org.liquibase-liquibase-core-4.14.0.jar"/>
     <jar href="lib/javax.xml.bind-jaxb-api-2.3.1.jar"/>
     <jar href="lib/javax.activation-javax.activation-api-1.2.0.jar"/>
     <jar href="lib/org.yaml-snakeyaml-1.27.jar"/>
