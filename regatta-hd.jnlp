@@ -2,7 +2,7 @@
 <!DOCTYPE jnlp PUBLIC "-//Sun Microsystems, Inc//DTD JNLP Descriptor 6.0//EN" "http://java.sun.com/dtd/JNLP-6.0.dtd">
 
 <jnlp spec="6.0" codebase="https://heidelberger-regattaverband.github.io/download/"
-  href="regatta-hd.jnlp" version="0.1.24">
+  href="regatta-hd.jnlp" version="0.1.25">
 
   <information>
     <title>Regatta Heidelberg</title>
@@ -27,12 +27,12 @@
   <resources>
     <java version="11*" href="jvms.json" />
         
-    <jar href="lib/de.regatta-hd-webstart-0.1.24.jar" main="true"/>
-    <jar href="lib/de.regatta-hd-ui-0.1.24.jar"/>
-    <jar href="lib/de.regatta-hd-aquarius-0.1.24.jar"/>
-    <jar href="lib/de.regatta-hd-commons-core-0.1.24.jar"/>
-    <jar href="lib/de.regatta-hd-commons-db-0.1.24.jar"/>
-    <jar href="lib/de.regatta-hd-schemas-0.1.24.jar"/>
+    <jar href="lib/de.regatta-hd-webstart-0.1.25.jar" main="true"/>
+    <jar href="lib/de.regatta-hd-ui-0.1.25.jar"/>
+    <jar href="lib/de.regatta-hd-aquarius-0.1.25.jar"/>
+    <jar href="lib/de.regatta-hd-commons-core-0.1.25.jar"/>
+    <jar href="lib/de.regatta-hd-commons-db-0.1.25.jar"/>
+    <jar href="lib/de.regatta-hd-schemas-0.1.25.jar"/>
     <jar href="lib/jakarta.xml.bind-jakarta.xml.bind-api-4.0.0.jar"/>
     <jar href="lib/org.hibernate-hibernate-core-jakarta-5.6.10.Final.jar"/>
     <jar href="lib/org.jboss.logging-jboss-logging-3.4.3.Final.jar"/>
@@ -57,7 +57,7 @@
     <jar href="lib/org.yaml-snakeyaml-1.27.jar"/>
     <jar href="lib/com.opencsv-opencsv-5.6.jar"/>
     <jar href="lib/org.apache.commons-commons-text-1.9.jar"/>
-    <jar href="lib/de.regatta-hd-commons-fx-0.1.24.jar"/>
+    <jar href="lib/de.regatta-hd-commons-fx-0.1.25.jar"/>
     <jar href="lib/org.controlsfx-controlsfx-11.1.1.jar"/>
     <jar href="lib/org.openjfx-javafx-base-18.0.2.jar"/>
     <jar href="lib/org.openjfx-javafx-base-18.0.2-mac.jar"/>
