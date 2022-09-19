@@ -2,7 +2,7 @@
 <!DOCTYPE jnlp PUBLIC "-//Sun Microsystems, Inc//DTD JNLP Descriptor 6.0//EN" "http://java.sun.com/dtd/JNLP-6.0.dtd">
 
 <jnlp spec="6.0" codebase="https://heidelberger-regattaverband.github.io/download/"
-  href="regatta-hd.jnlp" version="0.1.28">
+  href="regatta-hd.jnlp" version="0.1.29">
 
   <information>
     <title>Regatta Heidelberg</title>
@@ -27,12 +27,12 @@
   <resources>
     <java version="11*" href="jvms.json" />
         
-    <jar href="lib/de.regatta-hd-webstart-0.1.28.jar" main="true"/>
-    <jar href="lib/de.regatta-hd-ui-0.1.28.jar"/>
-    <jar href="lib/de.regatta-hd-aquarius-0.1.28.jar"/>
-    <jar href="lib/de.regatta-hd-commons-core-0.1.28.jar"/>
-    <jar href="lib/de.regatta-hd-commons-db-0.1.28.jar"/>
-    <jar href="lib/de.regatta-hd-schemas-0.1.28.jar"/>
+    <jar href="lib/de.regatta-hd-webstart-0.1.29.jar" main="true"/>
+    <jar href="lib/de.regatta-hd-ui-0.1.29.jar"/>
+    <jar href="lib/de.regatta-hd-aquarius-0.1.29.jar"/>
+    <jar href="lib/de.regatta-hd-commons-core-0.1.29.jar"/>
+    <jar href="lib/de.regatta-hd-commons-db-0.1.29.jar"/>
+    <jar href="lib/de.regatta-hd-schemas-0.1.29.jar"/>
     <jar href="lib/jakarta.xml.bind-jakarta.xml.bind-api-4.0.0.jar"/>
     <jar href="lib/jakarta.activation-jakarta.activation-api-2.1.0.jar"/>
     <jar href="lib/org.hibernate.orm-hibernate-core-6.1.2.Final.jar"/>
@@ -50,35 +50,22 @@
     <jar href="lib/com.sun.istack-istack-commons-runtime-4.0.1.jar"/>
     <jar href="lib/jakarta.inject-jakarta.inject-api-2.0.0.jar"/>
     <jar href="lib/org.antlr-antlr4-runtime-4.10.jar"/>
-    <jar href="lib/com.microsoft.sqlserver-mssql-jdbc-11.2.0.jre11.jar"/>
-    <jar href="lib/com.microsoft.azure-msal4j-1.13.0.jar"/>
-    <jar href="lib/com.nimbusds-oauth2-oidc-sdk-9.35.jar"/>
-    <jar href="lib/com.github.stephenc.jcip-jcip-annotations-1.0-1.jar"/>
-    <jar href="lib/com.nimbusds-content-type-2.2.jar"/>
-    <jar href="lib/com.nimbusds-lang-tag-1.6.jar"/>
-    <jar href="lib/com.nimbusds-nimbus-jose-jwt-9.22.jar"/>
-    <jar href="lib/net.minidev-json-smart-2.4.8.jar"/>
-    <jar href="lib/net.minidev-accessors-smart-2.4.8.jar"/>
-    <jar href="lib/org.ow2.asm-asm-9.1.jar"/>
-    <jar href="lib/org.slf4j-slf4j-api-1.7.36.jar"/>
-    <jar href="lib/com.fasterxml.jackson.core-jackson-databind-2.13.2.1.jar"/>
-    <jar href="lib/com.fasterxml.jackson.core-jackson-annotations-2.13.2.jar"/>
-    <jar href="lib/com.fasterxml.jackson.core-jackson-core-2.13.2.jar"/>
-    <jar href="lib/org.liquibase-liquibase-core-4.15.0.jar"/>
+    <jar href="lib/com.microsoft.sqlserver-mssql-jdbc-11.2.1.jre11.jar"/>
+    <jar href="lib/org.liquibase-liquibase-core-4.16.1.jar"/>
     <jar href="lib/javax.xml.bind-jaxb-api-2.3.1.jar"/>
     <jar href="lib/javax.activation-javax.activation-api-1.2.0.jar"/>
-    <jar href="lib/org.yaml-snakeyaml-1.27.jar"/>
+    <jar href="lib/org.yaml-snakeyaml-1.31.jar"/>
     <jar href="lib/com.opencsv-opencsv-5.6.jar"/>
     <jar href="lib/org.apache.commons-commons-text-1.9.jar"/>
-    <jar href="lib/de.regatta-hd-commons-fx-0.1.28.jar"/>
+    <jar href="lib/de.regatta-hd-commons-fx-0.1.29.jar"/>
     <jar href="lib/org.controlsfx-controlsfx-11.1.1.jar"/>
-    <jar href="lib/org.openjfx-javafx-base-18.0.2.jar"/>
-    <jar href="lib/org.openjfx-javafx-base-18.0.2-mac.jar"/>
-    <jar href="lib/org.openjfx-javafx-controls-18.0.2.jar"/>
-    <jar href="lib/org.openjfx-javafx-controls-18.0.2-mac.jar"/>
-    <jar href="lib/org.openjfx-javafx-fxml-18.0.2.jar"/>
-    <jar href="lib/org.openjfx-javafx-fxml-18.0.2-mac.jar"/>
-    <jar href="lib/org.openjfx-javafx-graphics-18.0.2.jar"/>
+    <jar href="lib/org.openjfx-javafx-base-19.jar"/>
+    <jar href="lib/org.openjfx-javafx-base-19-mac.jar"/>
+    <jar href="lib/org.openjfx-javafx-controls-19.jar"/>
+    <jar href="lib/org.openjfx-javafx-controls-19-mac.jar"/>
+    <jar href="lib/org.openjfx-javafx-fxml-19.jar"/>
+    <jar href="lib/org.openjfx-javafx-fxml-19-mac.jar"/>
+    <jar href="lib/org.openjfx-javafx-graphics-19.jar"/>
     <jar href="lib/org.apache.commons-commons-lang3-3.12.0.jar"/>
     <jar href="lib/org.apache.poi-poi-5.2.2.jar"/>
     <jar href="lib/commons-codec-commons-codec-1.15.jar"/>
@@ -88,9 +75,9 @@
     <jar href="lib/com.zaxxer-SparseBitSet-1.2.jar"/>
     <jar href="lib/org.apache.logging.log4j-log4j-api-2.17.2.jar"/>
     <jar href="lib/com.fazecast-jSerialComm-2.9.2.jar"/>
-    <jar href="lib/org.openjfx-javafx-graphics-18.0.2-win.jar"/>
-    <jar href="lib/org.openjfx-javafx-graphics-18.0.2-linux.jar"/>
-    <jar href="lib/org.openjfx-javafx-graphics-18.0.2-mac.jar"/>
+    <jar href="lib/org.openjfx-javafx-graphics-19-win.jar"/>
+    <jar href="lib/org.openjfx-javafx-graphics-19-linux.jar"/>
+    <jar href="lib/org.openjfx-javafx-graphics-19-mac.jar"/>
     <jar href="lib/com.google.inject-guice-5.1.0.jar"/>
     <jar href="lib/javax.inject-javax.inject-1.jar"/>
     <jar href="lib/aopalliance-aopalliance-1.0.jar"/>
