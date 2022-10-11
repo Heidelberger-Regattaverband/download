@@ -51,10 +51,10 @@
     <jar href="lib/jakarta.inject-jakarta.inject-api-2.0.0.jar"/>
     <jar href="lib/org.antlr-antlr4-runtime-4.10.1.jar"/>
     <jar href="lib/com.microsoft.sqlserver-mssql-jdbc-11.2.1.jre11.jar"/>
-    <jar href="lib/org.liquibase-liquibase-core-4.17.0.jar"/>
+    <jar href="lib/org.liquibase-liquibase-core-4.16.1.jar"/>
     <jar href="lib/javax.xml.bind-jaxb-api-2.3.1.jar"/>
     <jar href="lib/javax.activation-javax.activation-api-1.2.0.jar"/>
-    <jar href="lib/org.yaml-snakeyaml-1.32.jar"/>
+    <jar href="lib/org.yaml-snakeyaml-1.31.jar"/>
     <jar href="lib/com.opencsv-opencsv-5.6.jar"/>
     <jar href="lib/org.apache.commons-commons-text-1.9.jar"/>
     <jar href="lib/de.regatta-hd-commons-fx-0.1.32.jar"/>
