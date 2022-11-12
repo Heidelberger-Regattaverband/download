@@ -60,11 +60,11 @@
     <jar href="lib/de.regatta-hd-commons-fx-0.1.34.jar"/>
     <jar href="lib/org.controlsfx-controlsfx-11.1.2.jar"/>
     <jar href="lib/org.openjfx-javafx-base-19.jar"/>
-    <jar href="lib/org.openjfx-javafx-base-19-mac.jar"/>
+    <jar href="lib/org.openjfx-javafx-base-19-linux.jar"/>
     <jar href="lib/org.openjfx-javafx-controls-19.jar"/>
-    <jar href="lib/org.openjfx-javafx-controls-19-mac.jar"/>
+    <jar href="lib/org.openjfx-javafx-controls-19-linux.jar"/>
     <jar href="lib/org.openjfx-javafx-fxml-19.jar"/>
-    <jar href="lib/org.openjfx-javafx-fxml-19-mac.jar"/>
+    <jar href="lib/org.openjfx-javafx-fxml-19-linux.jar"/>
     <jar href="lib/org.openjfx-javafx-graphics-19.jar"/>
     <jar href="lib/org.apache.commons-commons-lang3-3.12.0.jar"/>
     <jar href="lib/org.apache.poi-poi-5.2.3.jar"/>
