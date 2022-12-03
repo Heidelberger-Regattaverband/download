@@ -25,7 +25,7 @@
   </security>
 
   <resources>
-    <java version="11*" href="jvms.json" />
+    <java version="11*" href="jvms.json" java-vm-args="--add-opens=javafx.controls/javafx.scene.control.skin=org.controlsfx.controls" />
         
     <jar href="lib/de.regatta-hd-webstart-0.1.34.jar" main="true"/>
     <jar href="lib/de.regatta-hd-ui-0.1.34.jar"/>
@@ -74,7 +74,7 @@
     <jar href="lib/commons-io-commons-io-2.11.0.jar"/>
     <jar href="lib/com.zaxxer-SparseBitSet-1.2.jar"/>
     <jar href="lib/org.apache.logging.log4j-log4j-api-2.18.0.jar"/>
-    <jar href="lib/com.fazecast-jSerialComm-2.9.2.jar"/>
+    <jar href="lib/com.fazecast-jSerialComm-2.9.3.jar"/>
     <jar href="lib/org.openjfx-javafx-graphics-19-win.jar"/>
     <jar href="lib/org.openjfx-javafx-graphics-19-linux.jar"/>
     <jar href="lib/org.openjfx-javafx-graphics-19-mac.jar"/>
