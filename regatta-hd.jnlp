@@ -51,7 +51,7 @@
     <jar href="lib/jakarta.xml.bind-jakarta.xml.bind-api-4.0.0.jar"/>
     <jar href="lib/jakarta.activation-jakarta.activation-api-2.1.0.jar"/>
     <jar href="lib/com.microsoft.sqlserver-mssql-jdbc-11.2.3.jre17.jar"/>
-    <jar href="lib/org.liquibase-liquibase-core-4.19.0.jar"/>
+    <jar href="lib/org.liquibase-liquibase-core-4.19.1.jar"/>
     <jar href="lib/javax.xml.bind-jaxb-api-2.3.1.jar"/>
     <jar href="lib/javax.activation-javax.activation-api-1.2.0.jar"/>
     <jar href="lib/org.yaml-snakeyaml-1.33.jar"/>
