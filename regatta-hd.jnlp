@@ -2,7 +2,7 @@
 <!DOCTYPE jnlp PUBLIC "-//Sun Microsystems, Inc//DTD JNLP Descriptor 6.0//EN" "http://java.sun.com/dtd/JNLP-6.0.dtd">
 
 <jnlp spec="6.0" codebase="https://heidelberger-regattaverband.github.io/download/"
-  href="regatta-hd.jnlp" version="0.1.56">
+  href="regatta-hd.jnlp" version="0.1.57">
 
   <information>
     <title>Regatta Heidelberg</title>
@@ -27,11 +27,11 @@
   <resources>
     <java version="17*" />
         
-    <jar href="lib/de.regatta-hd-webstart-0.1.56.jar" main="true"/>
-    <jar href="lib/de.regatta-hd-ui-0.1.56.jar"/>
-    <jar href="lib/de.regatta-hd-aquarius-0.1.56.jar"/>
-    <jar href="lib/de.regatta-hd-commons-core-0.1.56.jar"/>
-    <jar href="lib/de.regatta-hd-commons-db-0.1.56.jar"/>
+    <jar href="lib/de.regatta-hd-webstart-0.1.57.jar" main="true"/>
+    <jar href="lib/de.regatta-hd-ui-0.1.57.jar"/>
+    <jar href="lib/de.regatta-hd-aquarius-0.1.57.jar"/>
+    <jar href="lib/de.regatta-hd-commons-core-0.1.57.jar"/>
+    <jar href="lib/de.regatta-hd-commons-db-0.1.57.jar"/>
     <jar href="lib/org.hibernate.orm-hibernate-core-6.4.4.Final.jar"/>
     <jar href="lib/jakarta.persistence-jakarta.persistence-api-3.1.0.jar"/>
     <jar href="lib/jakarta.transaction-jakarta.transaction-api-2.0.1.jar"/>
@@ -40,13 +40,13 @@
     <jar href="lib/io.smallrye-jandex-3.1.2.jar"/>
     <jar href="lib/com.fasterxml-classmate-1.5.1.jar"/>
     <jar href="lib/net.bytebuddy-byte-buddy-1.14.11.jar"/>
-    <jar href="lib/org.glassfish.jaxb-jaxb-runtime-4.0.2.jar"/>
-    <jar href="lib/org.glassfish.jaxb-jaxb-core-4.0.2.jar"/>
-    <jar href="lib/org.eclipse.angus-angus-activation-2.0.0.jar"/>
-    <jar href="lib/org.glassfish.jaxb-txw2-4.0.2.jar"/>
-    <jar href="lib/com.sun.istack-istack-commons-runtime-4.1.1.jar"/>
+    <jar href="lib/org.glassfish.jaxb-jaxb-runtime-4.0.5.jar"/>
+    <jar href="lib/org.glassfish.jaxb-jaxb-core-4.0.5.jar"/>
+    <jar href="lib/org.eclipse.angus-angus-activation-2.0.2.jar"/>
+    <jar href="lib/org.glassfish.jaxb-txw2-4.0.5.jar"/>
+    <jar href="lib/com.sun.istack-istack-commons-runtime-4.1.2.jar"/>
     <jar href="lib/org.antlr-antlr4-runtime-4.13.0.jar"/>
-    <jar href="lib/de.regatta-hd-schemas-0.1.56.jar"/>
+    <jar href="lib/de.regatta-hd-schemas-0.1.57.jar"/>
     <jar href="lib/jakarta.xml.bind-jakarta.xml.bind-api-4.0.2.jar"/>
     <jar href="lib/jakarta.activation-jakarta.activation-api-2.1.3.jar"/>
     <jar href="lib/com.microsoft.sqlserver-mssql-jdbc-12.6.1.jre11.jar"/>
@@ -55,7 +55,7 @@
     <jar href="lib/org.apache.commons-commons-text-1.11.0.jar"/>
     <jar href="lib/org.yaml-snakeyaml-2.2.jar"/>
     <jar href="lib/javax.xml.bind-jaxb-api-2.3.1.jar"/>
-    <jar href="lib/de.regatta-hd-commons-fx-0.1.56.jar"/>
+    <jar href="lib/de.regatta-hd-commons-fx-0.1.57.jar"/>
     <jar href="lib/org.controlsfx-controlsfx-11.2.1.jar"/>
     <jar href="lib/org.openjfx-javafx-base-22.jar"/>
     <jar href="lib/org.openjfx-javafx-base-22-mac.jar"/>
@@ -86,7 +86,7 @@
     <jar href="lib/org.checkerframework-checker-qual-3.12.0.jar"/>
     <jar href="lib/com.google.errorprone-error_prone_annotations-2.7.1.jar"/>
     <jar href="lib/com.google.j2objc-j2objc-annotations-1.3.jar"/>
-    <jar href="lib/org.projectlombok-lombok-1.18.30.jar"/>
+    <jar href="lib/org.projectlombok-lombok-1.18.32.jar"/>
 
   </resources>
 
