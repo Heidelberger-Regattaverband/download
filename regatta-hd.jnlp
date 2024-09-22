@@ -49,7 +49,7 @@
     <jar href="lib/de.regatta-hd-schemas-0.1.61.jar"/>
     <jar href="lib/jakarta.xml.bind-jakarta.xml.bind-api-4.0.2.jar"/>
     <jar href="lib/jakarta.activation-jakarta.activation-api-2.1.3.jar"/>
-    <jar href="lib/com.microsoft.sqlserver-mssql-jdbc-12.8.1.jre11.jar"/>
+    <jar href="lib/com.microsoft.sqlserver-mssql-jdbc-12.6.4.jre11.jar"/>
     <jar href="lib/org.liquibase-liquibase-core-4.29.2.jar"/>
     <jar href="lib/com.opencsv-opencsv-5.9.jar"/>
     <jar href="lib/org.yaml-snakeyaml-2.2.jar"/>
