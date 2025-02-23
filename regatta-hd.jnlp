@@ -25,7 +25,7 @@
   </security>
 
   <resources>
-    <java version="17*" />
+    <java version="21*" />
         
     <jar href="lib/de.regatta-hd-webstart-0.1.62.jar" main="true"/>
     <jar href="lib/de.regatta-hd-ui-0.1.62.jar"/>
