@@ -40,10 +40,10 @@
     <jar href="lib/io.smallrye-jandex-3.2.0.jar"/>
     <jar href="lib/com.fasterxml-classmate-1.5.1.jar"/>
     <jar href="lib/net.bytebuddy-byte-buddy-1.17.8.jar"/>
-    <jar href="lib/org.glassfish.jaxb-jaxb-runtime-4.0.7.jar"/>
-    <jar href="lib/org.glassfish.jaxb-jaxb-core-4.0.7.jar"/>
+    <jar href="lib/org.glassfish.jaxb-jaxb-runtime-4.0.8.jar"/>
+    <jar href="lib/org.glassfish.jaxb-jaxb-core-4.0.8.jar"/>
     <jar href="lib/org.eclipse.angus-angus-activation-2.0.3.jar"/>
-    <jar href="lib/org.glassfish.jaxb-txw2-4.0.7.jar"/>
+    <jar href="lib/org.glassfish.jaxb-txw2-4.0.8.jar"/>
     <jar href="lib/com.sun.istack-istack-commons-runtime-4.1.2.jar"/>
     <jar href="lib/org.antlr-antlr4-runtime-4.13.0.jar"/>
     <jar href="lib/de.regatta-hd-schemas-0.1.65.jar"/>
